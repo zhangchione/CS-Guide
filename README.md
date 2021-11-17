@@ -1,6 +1,6 @@
 <p id="CS指南"></p>
 
-<h1 align="center">这是一份Cone的计算机学习求职笔记</h1>
+<h1 align="center">Cone的计算机学习求职笔记</h1>
 <div align="left>
 Cone在校招求职路上以及学习路上走过很多坑，本着开源的精神把自己一路上的总结开源给大家，一起共勉学习。
 📚 献给求职者、初学者的一份基础知识总结，包括C/C++语言、常见数据结构算法、操作系统、数据库、计算机网络、编译原理等知识总结。
@@ -9,7 +9,7 @@ Cone在校招求职路上以及学习路上走过很多坑，本着开源的精�
 
 👉 该资料适用于**校招求职应届生**以及在校初学者们**** 作者：[Cone](doc/aboutMe/aboutMe.md#关于Cone)
 
-👉 这里怕学习的时候一时找不到书籍，特地把自己收藏多年的小书库也开源了：[Books]](https://github.com/forthespada/CS-Books)
+👉 这里怕学习的时候一时找不到书籍，特地把自己收藏多年的小书库也开源了：[Books](https://github.com/forthespada/CS-Books)
 
 <b><details><summary>勘误</summary></b>
 
@@ -63,7 +63,7 @@ Cone在校招求职路上以及学习路上走过很多坑，本着开源的精�
 - [准备简历](doc/prepare/准备简历.md)
 
 **🦋 经验参考**
-- [Cone个人的计算机学习总结（Get微信、抖音等大厂sp及以上offer(https://mp.weixin.qq.com/s/JYygXswtLPrLjqTLMlZGKw)
+- [Cone个人的计算机学习总结（Get微信、抖音等大厂sp及以上offer)](https://mp.weixin.qq.com/s/JYygXswtLPrLjqTLMlZGKw)
 
 **🔨 各厂内推**
 
